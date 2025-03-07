@@ -1,4 +1,4 @@
-import restaurant
+import restaurant.restaurant as restaurant
 
 peking_garden = restaurant.Restaurant(name="peking garden", 
                                       location="stramproy", 
