@@ -1,0 +1,23 @@
+Hello, reader! 
+
+For as of today 08-03-2025, I've learned... 
+
+In python you can access files. 
+In python you can choose between what types of files you want to create. 
+In python you can choose what file is best to use. 
+In python it's smart to create a variable and assign the file to it, 
+so that, once you type in the variable behind open you access the file. 
+In python you can use; when open(here file name) as (what you assign it to). 
+then you type a new variable to store the lines within the file. 
+In python you can use .text(), .readtext(). To get access to the text within the file. 
+In python you can use, For loops to access each line, len to check the lenght, 
+slicing to no print all content only as much as you ask for, 
+example [:3] now you get only 3 digits. 
+
+It doesn't matter how much a file contains you can access all of it. 
+
+This is what I have learned so far, probably way more, 
+but this is for as far as I remember it at the moment. 
+
+Kind regards, 
+Luuk Kessels.
